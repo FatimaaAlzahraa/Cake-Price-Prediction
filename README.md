@@ -21,6 +21,7 @@ build a machine learning model that can predict the price of cakes based on thei
 ◆ Gender: The gender of person ordering the cake(s).
 
 STEPS:
+
 ◆ first i read data set
 
 ◆ show the columns information (columns names and data types )
